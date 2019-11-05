@@ -1,3 +1,5 @@
+/* esta função identifica o apelido e guarda-o; 
+após isso, encontra a inicial de cada um dos restantes nomes */
 void ex11_16()
 {
     char nome[] = "Zeferino Pedro Duarte Aguiar";
