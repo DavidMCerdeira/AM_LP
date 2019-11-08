@@ -1,3 +1,5 @@
+#include <string.h>
+
 /*3.23) Foi feita uma estatística nas 50 principais cidades portuguesas para recolher dados sobre acidentes
 de trânsito. Foram obtidos os seguintes dados: - código da cidade ; - distrito (PO, LI, BR, ...) ; - número
 de veículos de passeio (em 2001) ; - número de acidentes de trânsito com vítimas (em 2001)
